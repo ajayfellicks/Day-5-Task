@@ -16,7 +16,7 @@ const myResume = [
 ];
 */
 
-//! task 2
+//! task 2d
 //! For the above JSON, iterate over all for loops(for,for in,for of,forEach)
 //resume data
 const myResume = [
